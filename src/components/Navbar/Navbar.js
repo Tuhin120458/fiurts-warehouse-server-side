@@ -8,7 +8,7 @@ import auth from '../../Firebase/Firebase.init';
 const Navbar = () => {
 
     const [user, loading, error] = useAuthState(auth);
-    console.log(user)
+    // console.log(user)
 
     return (
 
