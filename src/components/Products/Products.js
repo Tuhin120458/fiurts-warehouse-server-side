@@ -14,12 +14,12 @@ const Products = () => {
         <div>
             <h2>this is products</h2>
             <div>
-                {
+                {/* {
                     products.map(product => <Product
                         key={product._id}
                         product={product}
                     ></Product>)
-                }
+                } */}
             </div>
         </div>
 
