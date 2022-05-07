@@ -12,8 +12,8 @@ const Navbar = () => {
 
     return (
 
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <div className="container">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light bg-info ">
+            <div className="container ">
                 <Link className="navbar-brand" to="/">fruits ware house </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
