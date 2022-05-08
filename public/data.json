@@ -1,38 +1,56 @@
 [
     {
+        "id": 1,
         "name": "Strawberry",
-        "img": "https://thumbs.dreamstime.com/z/isolated-strawberry-single-strawberry-fruit-isolated-white-background-clipping-path-fresh-strawberry-fruits-isolated-136191179.jpg",
+        "img": "https://www.gardeningknowhow.com/wp-content/uploads/2021/07/strawberry.jpg",
         "discription": "The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.",
-        "price": "230"
+        "price": 230,
+        "quantity": 7,
+        "suplayer": "Md Tuhin"
     },
     {
+        "id": 2,
         "name": "Apple",
         "img": "https://us.123rf.com/450wm/utima/utima1606/utima160600068/59830973-fresh-red-apple-with-leaf-isolated-on-white-.jpg?ver=6",
         "discription": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.",
-        "price": "230"
+        "price": 140,
+        "quantity": 12,
+        "suplayer": "Nayem Islam"
     },
     {
+        "id": 3,
         "name": "Watermelon",
-        "img": "https://thumbs.dreamstime.com/z/single-watermelon-fruit-close-up-raw-melon-white-background-qualitative-vector-illustration-agriculture-fruits-cooking-87739645.jpg",
+        "img": "https://i5.walmartimages.com/asr/624f8431-b244-4b3a-9864-eca1268d6b37.85304a9e75827db6de5e2da988b22b7e.jpeg",
         "discription": "Watermelon is a sweet and refreshing low calorie summer snack. It provides hydration and also essential nutrients, including vitamins, minerals, and antioxidants.",
-        "price": "230"
+        "price": 200,
+        "quantity": 17,
+        "suplayer": "Raju Ahmed"
     },
     {
+        "id": 4,
         "name": "Orange",
         "img": "https://www.kindpng.com/picc/m/376-3767041_orange-hd-png-transparent-orange-hd-single-fruits.png",
         "discription": "Oranges are an important food source in many parts of the world for several reasons. They are a commonly available source of vitamin C. They last longer than many other fruits when they are stored. They are easy to transport because each orange comes in its own tough skin which acts as a container.",
-        "price": "230"
+        "price": 165,
+        "quantity": 14,
+        "suplayer": "Md Shipon"
     },
     {
+        "id": 5,
         "name": "Lemon",
         "img": "https://graphicriver.img.customer.envatousercontent.com/files/259691435/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=a15e4a3884c3081cdba3820d49d16e01",
         "discription": "Lemon juice is used to make lemonade, soft drinks, and cocktails. It is used in marinades for fish, where its acid neutralizes amines in fish by converting them into nonvolatile ammonium salts.",
-        "price": "230"
+        "price": 35,
+        "quantity": 15,
+        "suplayer": "Md Alam"
     },
     {
+        "id": 6,
         "name": "Banana",
         "img": "https://st2.depositphotos.com/1938837/11670/v/950/depositphotos_116702810-stock-illustration-single-banana-fruit-close-up.jpg",
         "discription": "This article will take a look at the potential health benefits of bananas, such as improving heart health and promoting regularity. It also examines the possible health risks that doctors have associated with bananas.",
-        "price": "230"
+        "price": 188,
+        "quantity": 16,
+        "suplayer": "Md Bickrom"
     }
 ]
